@@ -1,0 +1,9 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+#logo {
+	padding: 40px 0;
+	text-align: center;
+}
